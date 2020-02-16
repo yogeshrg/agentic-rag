@@ -1,3 +1,4 @@
 ## 2020-01-11 10:18:14 - feat(ci): implement ci module (10/20)
 ## 2020-01-18 09:37:23 - feat(auth): add auth support (7/20)
 ## 2020-01-18 18:00:17 - feat(auth): implement auth module (20/20)
+## 2020-02-16 12:18:02 - feat(config): implement config module (11/20)
