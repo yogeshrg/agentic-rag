@@ -3,3 +3,4 @@
 ## 2020-01-18 18:00:17 - feat(auth): implement auth module (20/20)
 ## 2020-02-16 12:18:02 - feat(config): implement config module (11/20)
 ## 2020-03-21 11:26:34 - feat(monitor): create monitor handler (19/20)
+## 2020-03-22 22:34:18 - feat(alert): implement alert module (11/20)
