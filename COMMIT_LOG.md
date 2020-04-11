@@ -5,3 +5,4 @@
 ## 2020-03-21 11:26:34 - feat(monitor): create monitor handler (19/20)
 ## 2020-03-22 22:34:18 - feat(alert): implement alert module (11/20)
 ## 2020-04-05 11:31:14 - feat(test): implement test feature (14/20)
+## 2020-04-11 11:31:52 - feat(log): add log support (10/20)
