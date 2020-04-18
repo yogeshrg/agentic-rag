@@ -7,3 +7,4 @@
 ## 2020-04-05 11:31:14 - feat(test): implement test feature (14/20)
 ## 2020-04-11 11:31:52 - feat(log): add log support (10/20)
 ## 2020-04-18 11:29:47 - feat(log): add log endpoint (12/20)
+## 2020-04-18 13:19:32 - feat(monitor): add monitor endpoint (20/20)
