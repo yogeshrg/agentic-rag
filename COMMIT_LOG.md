@@ -9,3 +9,4 @@
 ## 2020-04-18 11:29:47 - feat(log): add log endpoint (12/20)
 ## 2020-04-18 13:19:32 - feat(monitor): add monitor endpoint (20/20)
 ## 2020-04-19 19:08:30 - feat(auth): create auth handler (2/20)
+## 2020-05-23 13:29:31 - feat(monitor): create monitor handler (18/20)
