@@ -11,3 +11,4 @@
 ## 2020-04-19 19:08:30 - feat(auth): create auth handler (2/20)
 ## 2020-05-23 13:29:31 - feat(monitor): create monitor handler (18/20)
 ## 2020-05-24 13:55:05 - feat(data): create data handler (10/20)
+## 2020-05-31 16:19:15 - feat(queue): implement queue feature (18/20)
