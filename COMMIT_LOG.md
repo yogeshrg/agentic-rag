@@ -14,3 +14,4 @@
 ## 2020-05-31 16:19:15 - feat(queue): implement queue feature (18/20)
 ## 2020-06-14 14:15:03 - feat(alert): add alert endpoint (16/20)
 ## 2020-06-20 23:08:09 - feat(test): implement test feature (8/20)
+## 2020-08-02 17:42:49 - feat(monitor): implement monitor module (2/20)
