@@ -18,3 +18,4 @@
 ## 2020-08-29 10:32:49 - feat(queue): add queue endpoint (1/20)
 ## 2020-09-13 09:31:13 - feat(deploy): create deploy handler (7/20)
 ## 2020-10-02 10:01:00 - feat(api): add api endpoint
+## 2020-10-31 23:25:52 - feat(data): add data support (7/20)
