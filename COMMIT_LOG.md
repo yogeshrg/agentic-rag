@@ -19,3 +19,4 @@
 ## 2020-09-13 09:31:13 - feat(deploy): create deploy handler (7/20)
 ## 2020-10-02 10:01:00 - feat(api): add api endpoint
 ## 2020-10-31 23:25:52 - feat(data): add data support (7/20)
+## 2020-11-29 14:50:45 - feat(metric): add metric endpoint (20/20)
