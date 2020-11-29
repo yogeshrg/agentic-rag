@@ -21,3 +21,4 @@
 ## 2020-10-31 23:25:52 - feat(data): add data support (7/20)
 ## 2020-11-29 14:50:45 - feat(metric): add metric endpoint (20/20)
 ## 2020-11-29 16:34:28 - feat(config): add config endpoint (18/20)
+## 2020-11-29 22:55:14 - feat(queue): implement queue feature (2/20)
