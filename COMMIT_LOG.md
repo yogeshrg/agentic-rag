@@ -22,3 +22,4 @@
 ## 2020-11-29 14:50:45 - feat(metric): add metric endpoint (20/20)
 ## 2020-11-29 16:34:28 - feat(config): add config endpoint (18/20)
 ## 2020-11-29 22:55:14 - feat(queue): implement queue feature (2/20)
+## 2020-12-05 20:13:59 - feat(log): implement log feature (11/20)
