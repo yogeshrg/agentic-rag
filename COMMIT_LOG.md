@@ -25,3 +25,4 @@
 ## 2020-12-05 20:13:59 - feat(log): implement log feature (11/20)
 ## 2020-12-13 18:42:27 - feat(monitor): implement monitor feature (13/20)
 ## 2021-01-10 13:21:54 - feat(db): add db support (12/20)
+## 2021-02-06 11:36:59 - feat(infra): create infra handler (13/20)
