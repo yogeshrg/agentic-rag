@@ -27,3 +27,4 @@
 ## 2021-01-10 13:21:54 - feat(db): add db support (12/20)
 ## 2021-02-06 11:36:59 - feat(infra): create infra handler (13/20)
 ## 2021-02-21 15:31:25 - feat(config): implement config feature (6/20)
+## 2021-03-06 12:17:34 - feat(config): implement config feature (19/20)
