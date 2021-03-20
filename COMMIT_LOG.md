@@ -29,3 +29,4 @@
 ## 2021-02-21 15:31:25 - feat(config): implement config feature (6/20)
 ## 2021-03-06 12:17:34 - feat(config): implement config feature (19/20)
 ## 2021-03-13 17:55:55 - feat(infra): implement infra module (16/20)
+## 2021-03-20 19:33:53 - feat(metric): implement metric module (16/20)
