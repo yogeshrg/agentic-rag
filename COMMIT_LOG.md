@@ -31,3 +31,4 @@
 ## 2021-03-13 17:55:55 - feat(infra): implement infra module (16/20)
 ## 2021-03-20 19:33:53 - feat(metric): implement metric module (16/20)
 ## 2021-05-22 18:01:07 - feat(ci): implement ci module (12/20)
+## 2021-05-29 17:48:58 - feat(db): add db endpoint (5/20)
