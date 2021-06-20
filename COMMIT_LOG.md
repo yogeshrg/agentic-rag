@@ -33,3 +33,4 @@
 ## 2021-05-22 18:01:07 - feat(ci): implement ci module (12/20)
 ## 2021-05-29 17:48:58 - feat(db): add db endpoint (5/20)
 ## 2021-06-12 16:29:58 - feat(db): add db support (3/20)
+## 2021-06-20 12:59:39 - feat(metric): add metric endpoint (19/20)
