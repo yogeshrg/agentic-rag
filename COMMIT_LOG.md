@@ -35,3 +35,4 @@
 ## 2021-06-12 16:29:58 - feat(db): add db support (3/20)
 ## 2021-06-20 12:59:39 - feat(metric): add metric endpoint (19/20)
 ## 2021-06-26 11:02:49 - feat(monitor): implement monitor module (17/20)
+## 2021-07-18 22:11:16 - feat(core): create core handler (4/20)
