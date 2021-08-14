@@ -36,3 +36,4 @@
 ## 2021-06-20 12:59:39 - feat(metric): add metric endpoint (19/20)
 ## 2021-06-26 11:02:49 - feat(monitor): implement monitor module (17/20)
 ## 2021-07-18 22:11:16 - feat(core): create core handler (4/20)
+## 2021-08-14 20:22:11 - feat(infra): create infra handler (20/20)
