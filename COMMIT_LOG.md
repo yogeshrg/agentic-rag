@@ -38,3 +38,4 @@
 ## 2021-07-18 22:11:16 - feat(core): create core handler (4/20)
 ## 2021-08-14 20:22:11 - feat(infra): create infra handler (20/20)
 ## 2021-08-14 21:59:05 - feat(docs): implement docs module (12/20)
+## 2021-09-05 18:51:35 - feat(worker): add worker support (12/20)
