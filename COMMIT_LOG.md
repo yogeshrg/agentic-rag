@@ -41,3 +41,4 @@
 ## 2021-09-05 18:51:35 - feat(worker): add worker support (12/20)
 ## 2021-09-26 10:52:35 - feat(api): add api endpoint (20/20)
 ## 2021-10-16 18:07:02 - feat(metric): add metric support (16/20)
+## 2021-10-17 09:06:56 - feat(core): add core support (18/20)
