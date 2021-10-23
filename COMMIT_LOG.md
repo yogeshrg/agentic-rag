@@ -43,3 +43,4 @@
 ## 2021-10-16 18:07:02 - feat(metric): add metric support (16/20)
 ## 2021-10-17 09:06:56 - feat(core): add core support (18/20)
 ## 2021-10-23 20:08:46 - feat(api): implement api module (3/20)
+## 2021-10-23 21:06:44 - feat(monitor): add monitor support (11/20)
