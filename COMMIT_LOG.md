@@ -46,3 +46,4 @@
 ## 2021-10-23 21:06:44 - feat(monitor): add monitor support (11/20)
 ## 2021-10-24 13:58:44 - feat(alert): add alert support (12/20)
 ## 2021-10-30 21:28:08 - feat(build): add build endpoint (16/20)
+## 2021-10-31 15:04:13 - feat(deploy): add deploy support (7/20)
