@@ -56,3 +56,4 @@
 ## 2022-02-05 13:42:04 - feat(model): create model handler (15/20)
 ## 2022-02-26 11:03:32 - feat(log): add log endpoint (2/20)
 ## 2022-02-26 19:37:40 - feat(deploy): add deploy support (20/20)
+## 2022-03-19 09:22:43 - feat(ui): create ui handler (18/20)
