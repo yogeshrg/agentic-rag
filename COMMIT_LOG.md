@@ -58,3 +58,4 @@
 ## 2022-02-26 19:37:40 - feat(deploy): add deploy support (20/20)
 ## 2022-03-19 09:22:43 - feat(ui): create ui handler (18/20)
 ## 2022-03-20 14:09:34 - feat(model): implement model feature (12/20)
+## 2022-04-12 23:31:25 - feat(ui): create ui handler
