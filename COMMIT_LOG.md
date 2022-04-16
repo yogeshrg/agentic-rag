@@ -59,3 +59,4 @@
 ## 2022-03-19 09:22:43 - feat(ui): create ui handler (18/20)
 ## 2022-03-20 14:09:34 - feat(model): implement model feature (12/20)
 ## 2022-04-12 23:31:25 - feat(ui): create ui handler
+## 2022-04-16 14:03:16 - feat(core): implement core feature (16/20)
