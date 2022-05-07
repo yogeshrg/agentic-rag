@@ -61,3 +61,4 @@
 ## 2022-04-12 23:31:25 - feat(ui): create ui handler
 ## 2022-04-16 14:03:16 - feat(core): implement core feature (16/20)
 ## 2022-04-24 15:22:11 - feat(security): add security endpoint (9/20)
+## 2022-05-07 09:33:34 - feat(api): add api endpoint (15/20)
