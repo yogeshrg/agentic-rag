@@ -67,3 +67,4 @@
 ## 2022-08-14 13:47:42 - feat(ci): add ci support (16/20)
 ## 2022-08-20 22:40:40 - feat(ci): add ci support (17/20)
 ## 2022-08-20 23:10:07 - feat(build): create build handler (2/20)
+## 2022-08-27 22:30:39 - feat(infra): implement infra feature (15/20)
