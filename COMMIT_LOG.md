@@ -70,3 +70,4 @@
 ## 2022-08-27 22:30:39 - feat(infra): implement infra feature (15/20)
 ## 2022-09-30 22:15:24 - feat(data): add data support
 ## 2022-11-05 19:51:16 - feat(ci): add ci support (10/20)
+## 2022-11-13 16:45:57 - feat(alert): implement alert feature (13/20)
