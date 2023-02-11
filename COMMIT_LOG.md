@@ -73,3 +73,4 @@
 ## 2022-11-13 16:45:57 - feat(alert): implement alert feature (13/20)
 ## 2023-01-01 15:32:54 - feat(cache): add cache support (4/20)
 ## 2023-01-21 17:21:43 - feat(model): implement model feature (14/20)
+## 2023-02-11 21:19:47 - feat(metric): add metric support (14/20)
