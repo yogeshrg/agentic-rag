@@ -74,3 +74,4 @@
 ## 2023-01-01 15:32:54 - feat(cache): add cache support (4/20)
 ## 2023-01-21 17:21:43 - feat(model): implement model feature (14/20)
 ## 2023-02-11 21:19:47 - feat(metric): add metric support (14/20)
+## 2023-02-25 10:06:08 - feat(config): add config endpoint (17/20)
