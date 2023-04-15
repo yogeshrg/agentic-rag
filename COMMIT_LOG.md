@@ -76,3 +76,4 @@
 ## 2023-02-11 21:19:47 - feat(metric): add metric support (14/20)
 ## 2023-02-25 10:06:08 - feat(config): add config endpoint (17/20)
 ## 2023-02-26 15:06:12 - feat(test): add test endpoint (2/20)
+## 2023-04-15 21:02:38 - feat(ui): add ui support (8/20)
