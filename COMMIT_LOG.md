@@ -77,3 +77,4 @@
 ## 2023-02-25 10:06:08 - feat(config): add config endpoint (17/20)
 ## 2023-02-26 15:06:12 - feat(test): add test endpoint (2/20)
 ## 2023-04-15 21:02:38 - feat(ui): add ui support (8/20)
+## 2023-04-22 23:59:44 - feat(ci): add ci support (3/20)
