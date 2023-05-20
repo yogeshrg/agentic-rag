@@ -79,3 +79,4 @@
 ## 2023-04-15 21:02:38 - feat(ui): add ui support (8/20)
 ## 2023-04-22 23:59:44 - feat(ci): add ci support (3/20)
 ## 2023-05-13 10:44:47 - feat(alert): create alert handler (19/20)
+## 2023-05-20 16:39:50 - feat(api): add api endpoint (18/20)
