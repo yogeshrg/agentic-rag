@@ -82,3 +82,4 @@
 ## 2023-05-20 16:39:50 - feat(api): add api endpoint (18/20)
 ## 2023-05-21 22:16:49 - feat(auth): implement auth module (3/20)
 ## 2023-05-27 18:48:59 - feat(api): implement api feature (4/20)
+## 2023-06-03 17:01:46 - feat(data): implement data feature (3/20)
