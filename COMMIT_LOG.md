@@ -88,3 +88,4 @@
 ## 2023-07-24 09:53:52 - feat(monitor): implement monitor feature
 ## 2023-07-30 11:35:40 - feat(data): implement data module (12/20)
 ## 2023-08-05 10:33:39 - feat(queue): implement queue module (14/20)
+## 2023-09-03 21:01:32 - feat(monitor): add monitor support (20/20)
