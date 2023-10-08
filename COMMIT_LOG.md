@@ -92,3 +92,4 @@
 ## 2023-09-21 11:12:48 - feat(auth): implement auth feature
 ## 2023-09-23 20:20:50 - feat(db): add db endpoint (16/20)
 ## 2023-10-07 17:10:36 - feat(model): create model handler (14/20)
+## 2023-10-08 16:15:32 - feat(ui): add ui support (10/20)
