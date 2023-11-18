@@ -97,3 +97,4 @@
 ## 2023-10-29 15:43:56 - feat(data): add data support (9/20)
 ## 2023-11-05 12:01:30 - feat(worker): create worker handler (16/20)
 ## 2023-11-11 20:13:31 - feat(build): create build handler (6/20)
+## 2023-11-18 18:53:44 - feat(security): add security support (11/20)
