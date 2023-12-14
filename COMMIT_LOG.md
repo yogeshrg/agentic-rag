@@ -101,3 +101,4 @@
 ## 2023-11-19 19:54:36 - feat(monitor): create monitor handler (13/20)
 ## 2023-12-09 13:12:40 - feat(metric): implement metric module (17/20)
 ## 2023-12-09 13:14:05 - feat(log): add log support (3/20)
+## 2023-12-14 20:24:36 - feat(infra): add infra support
