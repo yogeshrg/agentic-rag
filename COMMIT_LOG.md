@@ -102,3 +102,4 @@
 ## 2023-12-09 13:12:40 - feat(metric): implement metric module (17/20)
 ## 2023-12-09 13:14:05 - feat(log): add log support (3/20)
 ## 2023-12-14 20:24:36 - feat(infra): add infra support
+## 2024-01-14 15:07:00 - feat(core): add core endpoint (7/20)
