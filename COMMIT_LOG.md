@@ -106,3 +106,4 @@
 ## 2024-02-10 12:04:53 - feat(deploy): add deploy support (14/20)
 ## 2024-02-11 19:37:26 - feat(data): add data endpoint (18/20)
 ## 2024-02-26 22:35:15 - feat(ui): add ui support
+## 2024-03-12 15:48:44 - feat(api): add api endpoint
