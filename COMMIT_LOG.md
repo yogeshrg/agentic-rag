@@ -108,3 +108,4 @@
 ## 2024-02-26 22:35:15 - feat(ui): add ui support
 ## 2024-03-12 15:48:44 - feat(api): add api endpoint
 ## 2024-04-14 13:46:58 - feat(ui): create ui handler (1/20)
+## 2024-04-28 14:21:54 - feat(test): add test support (8/20)
