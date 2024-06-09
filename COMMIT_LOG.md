@@ -113,3 +113,4 @@
 ## 2024-05-05 17:31:56 - feat(infra): implement infra module (19/20)
 ## 2024-05-26 18:43:32 - feat(infra): implement infra module (4/20)
 ## 2024-06-01 15:13:11 - feat(config): implement config module (5/20)
+## 2024-06-09 22:58:19 - feat(log): add log endpoint (6/20)
