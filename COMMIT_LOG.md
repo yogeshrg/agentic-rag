@@ -117,3 +117,4 @@
 ## 2024-06-15 21:07:45 - feat(infra): implement infra feature (13/20)
 ## 2024-06-23 12:08:24 - feat(worker): implement worker module (17/20)
 ## 2024-07-07 23:42:54 - feat(metric): implement metric module (6/20)
+## 2024-07-12 19:50:52 - feat(model): add model support
