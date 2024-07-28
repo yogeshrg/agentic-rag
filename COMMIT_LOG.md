@@ -122,3 +122,4 @@
 ## 2024-07-20 16:22:27 - feat(ui): implement ui module (18/20)
 ## 2024-07-20 17:57:12 - feat(config): add config support (13/20)
 ## 2024-07-28 11:07:47 - feat(monitor): implement monitor module (3/20)
+## 2024-07-28 13:44:54 - feat(ui): create ui handler (5/20)
