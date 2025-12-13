@@ -158,3 +158,4 @@
 ## 2025-11-08 13:18:27 - feat(config): implement config feature (4/20)
 ## 2025-12-04 17:48:47 - feat(deploy): add deploy endpoint
 ## 2025-12-10 20:27:30 - feat(db): create db handler
+## 2025-12-13 17:09:07 - feat(ci): add ci support (19/20)
