@@ -163,3 +163,4 @@
 ## 2025-12-21 22:36:07 - feat(infra): add infra support (20/20)
 ## 2026-01-03 16:37:36 - feat(deploy): implement deploy feature (9/20)
 ## 2026-01-09 10:58:46 - feat(build): create build handler
+## 2026-01-10 15:14:05 - feat(worker): add worker support (13/20)
