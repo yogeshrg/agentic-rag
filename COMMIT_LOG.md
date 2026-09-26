@@ -184,3 +184,4 @@
 ## 2026-08-29 16:52:31 - feat(model): implement model feature (1/20)
 ## 2026-08-30 16:22:26 - feat(security): implement security feature (6/20)
 ## 2026-09-19 12:53:27 - feat(auth): implement auth module (7/20)
+## 2026-09-26 23:53:58 - feat(core): add core support (13/20)
